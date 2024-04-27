@@ -1,0 +1,4 @@
+C:\Users\Администратор\Desktop\SemC#\Repo-fo-C-\Task3\obj\Debug\net7.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\SemC#\Repo-fo-C-\Task3\obj\Debug\net7.0\Task3.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\SemC#\Repo-fo-C-\Task3\obj\Debug\net7.0\Task3.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\SemC#\Repo-fo-C-\Task3\obj\Debug\net7.0\Task3.csproj.CoreCompileInputs.cache
